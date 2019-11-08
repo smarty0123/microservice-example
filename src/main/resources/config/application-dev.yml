@@ -43,8 +43,8 @@ spring:
       indent-output: true
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:postgresql://localhost:5432/jhipster
-    username: jhipster
+    url: jdbc:postgresql://localhost:1412/postgres
+    username: 
     password:
     hikari:
       poolName: Hikari
